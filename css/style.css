@@ -97,7 +97,7 @@ img {
   position: fixed;
   top: 0px;
   padding: 0 30px;
-  transition: background-color 500ms ease-in-out;
+  transition: background-color 250ms ease-in-out;
 }
 
 .navbar.top {
